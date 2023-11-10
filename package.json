@@ -1,0 +1,17 @@
+{
+  "name": "word-map",
+  "version": "1.0.0",
+  "description": "Algoritmos de Identificação de Letras Não Repetidas",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "tsc": "^2.0.4",
+    "typescript": "^5.2.2"
+  }
+}
